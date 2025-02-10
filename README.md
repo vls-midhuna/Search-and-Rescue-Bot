@@ -47,7 +47,7 @@ By integrating these components, the SAR robot enhances rescue efficiency, aids 
 
 
 ## Pinout Diagram
-
+![image](https://github.com/vls-midhuna/Search-and-Rescue-Bot/blob/97575cc2cb26cd390d03236eb81e97b936c93da1/Pinout(SAR).png)
 
 ## Working Code
 ```
