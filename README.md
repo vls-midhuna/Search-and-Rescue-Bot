@@ -1,4 +1,4 @@
-# Search-and-Rescue-Bot
+# Search and Rescue Bot
 
 ## Introduction
 A Search and Rescue (SAR) Robot is an autonomous or remotely controlled robotic system designed to assist in rescue missions during emergencies and disasters. These robots help locate victims, navigate hazardous environments, and provide real-time data to rescuers, improving response time and safety. Equipped with sensors like ultrasonic, gas detectors, and temperature monitors, SAR robots can detect obstacles, identify survivors, and alert rescue teams through IoT connectivity. Their ability to operate in dangerous or inaccessible areas makes them valuable tools in disaster relief operations.
