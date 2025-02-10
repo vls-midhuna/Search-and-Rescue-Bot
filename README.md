@@ -203,7 +203,7 @@ void stop() {
 ```
 
 ## Demo Video
-
+https://github.com/vls-midhuna/Search-and-Rescue-Bot/blob/main/search_and_rescue_bot.mp4
 
 ## Acknowledgements
 I’m grateful for the opportunity to participate in the DIRV Hackathon 2025, organized by IIT Madras in collaboration with VSD, as part of the 2nd Digital India RISC-V (DIR-V) Symposium. It’s exciting to be part of this 4th Product-based Hackathon PAN India and the 3rd RISC-V-focused event, especially with such a reputed institute. This experience has been a great learning opportunity, allowing me to apply my skills, work with like-minded individuals, and contribute to real-world innovation. A big thanks to the organizers for making this possible!
