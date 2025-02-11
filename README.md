@@ -37,7 +37,7 @@ By integrating these components, the SAR robot enhances rescue efficiency, aids 
 | **Ultrasonic Sensor (Front)** | Trig → `3` <br> Echo → `0`  | Detects obstacles in front      |
 | **Ultrasonic Sensor (Left)**  | Trig → `11` <br> Echo → `10` | Detects obstacles on the left   |
 | **Ultrasonic Sensor (Right)** | Trig → `14` <br> Echo → `13` | Detects obstacles on the right  |
-| **Ultrasonic Sensor (Rear)**  | Trig → `X` <br> Echo → `X`   | Detects obstacles at the rear (Specify pins) |
+| **Ultrasonic Sensor (Rear)**  | Trig → `8` <br> Echo → `9`   | Detects obstacles at the rear (Specify pins) |
 | **Gas Sensor (MQ-8)**  | `A0`                     | Detects harmful gases           |
 | **DHT11 Sensor**       | `7`                      | Measures temperature and humidity |
 | **Motor Driver (L298N / L293D)** | IN1 → `1` <br> IN2 → `2` <br> IN3 → `4` <br> IN4 → `5` | Controls motors for movement |
